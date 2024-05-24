@@ -1,6 +1,6 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 <h1 align="center">Hi 👋, I'm SRINATH R</h1>
-<h3 align="center">a curious person who just completed my college and striving to achieve my personal goals.</h3>
+<a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+college+graduate;coder;problem+solver;DevOps+Engineer+%3C3"></a>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinathr2001&label=Profile%20views&color=0e75b6&style=flat" alt="srinathr2001" /> </p>
 
